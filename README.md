@@ -1,6 +1,6 @@
 # DIY-CNC
 Currently under development.
-I will upload more when done.
+I will upload more and document everything when done.
 
 The 3D model in Fusion 360.
 ![image](https://github.com/Zaul03/DIY-CNC/assets/143754439/92cb7fed-d908-4462-99ad-300f60bd6c77)
